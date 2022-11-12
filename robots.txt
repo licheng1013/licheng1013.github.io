@@ -1,5 +1,8 @@
+User-agent: *
+
+Allow: /
 
 User-agent:*
 Disallow:
 
-Sitemap: https://vuepress-theme-hope-v2-demo.mrhope.site/sitemap.xml
+Sitemap: https://licheng1013.github.io/sitemap.xml
