@@ -1,1 +1,1 @@
-{"data":{"labels":["11/23/2022"],"datasets":[{"label":"修改数","data":[60],"backgroundColor":["rgba(54, 162, 235, 0.2)"],"borderColor":["rgba(54, 162, 235, 1)"],"borderWidth":1}]},"type":"bar","options":{"scales":{"y":{"beginAtZero":true}}}}
+{"data":{"labels":["11/23/2022"],"datasets":[{"label":"修改数","data":[65],"backgroundColor":["rgba(54, 162, 235, 0.2)"],"borderColor":["rgba(54, 162, 235, 1)"],"borderWidth":1}]},"type":"bar","options":{"scales":{"y":{"beginAtZero":true}}}}
