@@ -1,1 +1,0 @@
-import{_ as o,o as t,c as l,a as c,b as e,r as s}from"./app.9ef913cb.js";const _={},a=e("ul",null,[e("li",null,"博客包含了许多的技术快速搭建示例，但详细教程比较少。如果你在某个技术文章中，找不到你需要的内容可以试着评论下。"),e("li",null,"我会试着去尝试如何去添加这个示例进来。最后欢迎你来到此博客！")],-1);function r(i,m){const n=s("MyComponent");return t(),l("div",null,[a,c(n)])}const u=o(_,[["render",r],["__file","index.html.vue"]]);export{u as default};
