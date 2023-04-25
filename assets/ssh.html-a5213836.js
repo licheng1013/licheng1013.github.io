@@ -1,4 +1,4 @@
-import{_ as n,Q as s,S as a,a1 as t}from"./framework-7d554712.js";const o={},p=t(`<h1 id="ssh" tabindex="-1"><a class="header-anchor" href="#ssh" aria-hidden="true">#</a> ssh</h1><h2 id="介绍" tabindex="-1"><a class="header-anchor" href="#介绍" aria-hidden="true">#</a> 介绍</h2><ul><li>2022/10/25</li></ul><h2 id="终端连接" tabindex="-1"><a class="header-anchor" href="#终端连接" aria-hidden="true">#</a> 终端连接</h2><div class="language-go line-numbers-mode" data-ext="go"><pre class="language-go"><code>
+import{_ as n,Q as s,S as a,a1 as t}from"./framework-7d554712.js";const o={},p=t(`<h1 id="ssh" tabindex="-1"><a class="header-anchor" href="#ssh" aria-hidden="true">#</a> Ssh</h1><h2 id="介绍" tabindex="-1"><a class="header-anchor" href="#介绍" aria-hidden="true">#</a> 介绍</h2><ul><li>2022/10/25</li></ul><h2 id="终端连接" tabindex="-1"><a class="header-anchor" href="#终端连接" aria-hidden="true">#</a> 终端连接</h2><div class="language-go line-numbers-mode" data-ext="go"><pre class="language-go"><code>
 <span class="token keyword">package</span> test
 
 <span class="token keyword">import</span> <span class="token punctuation">(</span>
