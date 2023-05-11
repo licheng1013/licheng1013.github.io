@@ -78,7 +78,7 @@ redis-cli                               <span class="token comment">#进入redis
 <span class="token key atrule">services</span><span class="token punctuation">:</span>
   <span class="token key atrule">go-dev</span><span class="token punctuation">:</span>         <span class="token comment">#容器名</span>
     <span class="token key atrule">restart</span><span class="token punctuation">:</span> always <span class="token comment">#跟随docker启动</span>
-    <span class="token key atrule">image</span><span class="token punctuation">:</span> ubuntu<span class="token punctuation">:</span><span class="token number">22.04</span>   <span class="token comment">#拉取镜像</span>
+    <span class="token key atrule">image</span><span class="token punctuation">:</span> centos<span class="token punctuation">:</span>centos7  <span class="token comment">#拉取镜像-千万别使用ubuntu镜像会有证书问题tmd</span>
     <span class="token key atrule">container_name</span><span class="token punctuation">:</span> go<span class="token punctuation">-</span>dev <span class="token comment">#容器名</span>
     <span class="token key atrule">ports</span><span class="token punctuation">:</span>          <span class="token comment">#端口映射 本地:容器</span>
       <span class="token punctuation">-</span> <span class="token string">&quot;8999:8999&quot;</span>
