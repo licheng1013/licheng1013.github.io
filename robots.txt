@@ -1,8 +1,0 @@
-User-agent: *
-
-Allow: /
-
-User-agent:*
-Disallow:
-
-Sitemap: https://licheng1013.github.io/sitemap.xml
