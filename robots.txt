@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://licheng1013.github.io/sitemap.xml
